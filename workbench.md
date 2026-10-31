@@ -15,4 +15,4 @@ meta:
 
 The site you're on: a personal workbench for side projects, agentic coding, and a little about me.
 
-It is a static Astro build; a build-time GitHub sync and a daily Cloudflare Pages rebuild keep the date, project list, and résumé current — almost no maintenance.
+Built with Astro, with daily Cloudflare-triggered rebuilds that pull the latest GitHub projects, regenerate my résumé, and keep the site current—no manual updates needed.
