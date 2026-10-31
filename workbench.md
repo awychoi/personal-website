@@ -3,6 +3,7 @@ treatment: hero
 order: 20
 title: wychoi.com
 kicker: Personal site · Build note
+banner: build-notes-hero.png
 meta:
   - label: Hardest part
     value: The carousel card’s return flip. Making it flip back on a different axis required human intelligence.
