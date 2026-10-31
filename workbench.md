@@ -15,4 +15,4 @@ meta:
 
 The site you're on: a personal workbench for side projects, agentic coding, and a little about me.
 
-Built with Astro, with daily Cloudflare-triggered rebuilds that pull the latest GitHub projects, regenerate my résumé, and keep the site current—no manual updates needed.
+Built with Astro. Daily Cloudflare-triggered rebuilds pull the latest GitHub projects and regenerate my résumé—keeping the site current with no manual updates.
