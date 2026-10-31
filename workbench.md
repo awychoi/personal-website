@@ -13,4 +13,6 @@ meta:
 
 ## What it is
 
-A single-page personal site: A personal workbench where I share side projects, explore agentic coding, and tell you a little about myself.
+The site you're on: a personal workbench for side projects, agentic coding, and a little about me.
+
+It is a static Astro build; a build-time GitHub sync and a daily Cloudflare Pages rebuild keep the date, project list, and résumé current — almost no maintenance.
