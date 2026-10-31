@@ -1,10 +1,8 @@
 # wychoi.com — public build log
 The source for the site at wychoi.com is private. This repository is the public build log and the source of the Workbench card that appears on the site. It contains no site source.
 
-What it is
-A single-page personal site: Workbench, experience, contact, and a build-time résumé. Astro static output; no analytics, cookies, or third-party runtime requests.
 
-Build notes
+## Build notes
 The Workbench card is defined in workbench.md.
 The repo About description and topics supply the card's front summary and tags.
 The back uses the first ## section for What it is and two short notes for the hardest part and the main lesson.
