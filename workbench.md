@@ -6,7 +6,7 @@ kicker: Personal site · Build note
 banner: build-notes-hero.png
 meta:
   - label: Unnecessarily complex
-    value: Carousel card random-axis flips both ways; leading border intact, trailing clipped on scroll.
+    value: Flip carousel card on random-axis both ways; leading border intact, trailing clipped on scroll.
   - label: What I learned
     value: The simplest-looking feature took the most time. Everything else was deciding what not to ship.
 ---
