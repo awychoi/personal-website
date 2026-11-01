@@ -8,7 +8,7 @@ meta:
   - label: Unnecessarily complex
     value: Flip carousel card on random-axis both ways; leading border intact, trailing clipped on scroll.
   - label: What I learned
-    value: The simplest-looking feature took the most time. Everything else was deciding what not to ship.
+    value: The simplest-looking features took the most time. The genuinely hard parts already have tools.
 ---
 
 ## What it is
