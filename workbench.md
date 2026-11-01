@@ -6,7 +6,7 @@ kicker: Personal site · Build note
 banner: build-notes-hero.png
 meta:
   - label: Hardest part
-    value: The carousel card’s return flip. Making it flip back on a different axis required human intelligence.
+    value: Carousel card: Random-axis flips both ways; leading border intact, trailing clipped on scroll.
   - label: What I learned
     value: The simplest-looking feature took the most time. Everything else was deciding what not to ship.
 ---
