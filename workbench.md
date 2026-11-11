@@ -1,6 +1,6 @@
 ---
 treatment: list
-group: website
+group: personal-website
 group_order: 30
 order: 10
 title: wychoi.com
